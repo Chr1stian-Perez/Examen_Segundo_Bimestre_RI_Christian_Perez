@@ -1,0 +1,12 @@
+# =============================================================================
+# ARCHIVOS DE CONFIGURACIÓN Y CREDENCIALES
+# =============================================================================
+
+# Variables de entorno con API keys
+.env
+.env.local
+.env.production
+.env.staging
+
+# Datasets descargados
+data/
